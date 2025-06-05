@@ -1,1 +1,1 @@
-# Principles-of--AI
+# Principles-of-AI
